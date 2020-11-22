@@ -1,0 +1,50 @@
+body {
+    color: white;
+    background: grey;
+    Font-family: Arial
+    }
+
+nav {
+    font-size: 30px;
+    text-align: center;
+    background-color: black;
+    border: 10px solid black;
+    padding: 20px;
+    font-size: 30px;
+}
+
+a {
+    padding: 5%;
+}
+
+h1 {
+    color: orange;
+    font-size: 40px;
+    text-align: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns:  auto auto;
+    background-color: black;
+  }
+
+li {
+    background-color: black;
+    border: 20px solid grey;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+
+li:hover{
+        Padding: 10px;
+        Background: orange;
+        Text-decoration: underline
+        }
+    
+p {
+    font-size: 25px;
+    border: 20px solid black;
+    background-color: black;
+}
