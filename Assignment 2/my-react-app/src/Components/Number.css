@@ -1,0 +1,29 @@
+.Number{
+    width: 180px;
+    height: auto;
+    margin: auto auto;
+    border: 1px dotted lightblue;
+    padding: 10px;
+    color: black;
+    box-shadow: 2px 3px 3px slateblue;
+    display: inline-block;
+    align-content: center;
+}
+
+.num{
+    font-size: 100px;
+    text-align: center;
+}
+
+.btn {
+    background-color: DodgerBlue;
+    border: 1px solid black;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: auto auto;
+    display: inline-block;
+    margin-right:5px;
+    
+  }
